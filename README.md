@@ -1,8 +1,11 @@
 # Hi there <img src="https://raw.githubusercontent.com/jayakornk/jayakornk/main/wave.gif" width="30px">
 
-My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm from Thailand, currently living in Bangkok. I'm working at Odd-e (Thailand) Co., Ltd. which is quite an interesting company. Most of my previous project were front-end related and I'm in the process of trying out everything else related to software development starting from Project Management, Back-end, UX/UI to DevOps. 😄
+My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm from Thailand, currently living in Bangkok. I'm working at Odd-e (Thailand) Co., Ltd.
 
-## ✨ Languages
+- 🌱 I’m currently learning everything 🥶
+- ⚡ Fun fact: I'm a gadget lover and a Back to the Future fan.
+
+### ✨ Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
@@ -11,7 +14,7 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat&logo=sass)
 ![Less](https://img.shields.io/badge/-Less-black?style=flat&logo=less)
 
-## 🧰 Technologies & Tools
+### 🧰 Technologies & Tools
 
 ![MacOS](https://img.shields.io/badge/-Mac-black?style=flat&logo=apple)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visual-studio-code)
@@ -31,12 +34,7 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat&logo=wordpress)
 ![Amazon AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws)
 
-## 📝 Blogs
-
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://medium.com/@jayakornk)
-[![Hashnode](https://img.shields.io/badge/-Hashnode-black?style=flat&logo=hashnode)](https://hashnode.com/@jayakornk)
-[![Bacon's DEV Community Profile](https://img.shields.io/badge/-dev.to-black?style=flat&logo=dev.to)](https://dev.to/jayakornk)
-
+### 📝 Latest Blog Post [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://medium.com/@jayakornk) [![Hashnode](https://img.shields.io/badge/-Hashnode-black?style=flat&logo=hashnode)](https://hashnode.com/@jayakornk) [![Bacon's DEV Community Profile](https://img.shields.io/badge/-dev.to-black?style=flat&logo=dev.to)](https://dev.to/jayakornk)
 <!-- BLOG-POST-LIST:START -->
 - [Let’s talk “Task Management”](https://medium.com/odds-team/lets-talk-task-management-a2a8ac7db511?source=rss-b59d0b314c81------2)
 - [Let's talk "Task Management"](https://btb.jayakornk.dev/lets-talk-task-management)
@@ -44,11 +42,18 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 - [EP.1 - ชีวิตที่เปลี่ยนไปในยุค COVID-19](https://anchor.fm/organic-talk/episodes/EP-1----COVID-19-eeho5o)
 <!-- BLOG-POST-LIST:END -->
 
-## 📈 GitHub Stats
+### 📻 Latest Podcasts
+<!-- PODCAST:START -->
+<!-- PODCAST:END -->
+
+### 📈 GitHub Stats
 
 [![JayakornK's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayakornk&count_private=true&show_icons=true)](https://github.com/jayakornk/jayakornk)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayakornk&langs_count=3)](https://github.com/jayakornk/jayakornk)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayakornk)](https://github.com/jayakornk/jayakornk)
+<details>
+  <summary>:zap: more stats?</summary>
+  <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakornk&langs_count=3" />
+  <img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakornk" />
+</details>
 
 <!--
 **jayakornk/jayakornk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,3 +69,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://jayakornk.dev
+[linkedin]: https://linkedin.com/in/jayakornk
+[github]: https://github.com/jayakornk
