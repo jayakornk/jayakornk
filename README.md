@@ -1,5 +1,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/jayakornk/jayakornk/main/wave.gif" width="30px">
 
+[![Website](https://img.shields.io/website?label=jayakornk.dev&style=for-the-badge&url=https%3A%2F%2Fjayakornk.dev)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/jayakornk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjayakornk&screen_name=jayakornk)
+[![LinkedIn](https://img.shields.io/badge/-Jayakorn_Karikan-0077B5?style=for-the-badge&logo=linkedin)][linkedin]
+
 My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm from Thailand, currently living in Bangkok. I'm working at Odd-e (Thailand) Co., Ltd.
 
 - 🌱 I’m currently learning everything 🥶
@@ -9,16 +13,6 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 [<img src="https://now-playing-jayakornk.vercel.app/api/spotify" alt="JayakornK Spotify Playing" width="350" />](https://open.spotify.com/user/whiskey2wine)
 
-<br />
-
-### 🔗 Connect with me
-
-[![Website](https://img.shields.io/website?label=jayakornk.dev&style=for-the-badge&url=https%3A%2F%2Fjayakornk.dev)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/jayakornk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjayakornk&screen_name=jayakornk)
-[![LinkedIn](https://img.shields.io/badge/-Jayakorn_Karikan-0077B5?style=for-the-badge&logo=linkedin)][linkedin]
-
-<br />
-
 ### ✨ Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -27,8 +21,6 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass)
 ![Less](https://img.shields.io/badge/-Less-black?style=flat-square&logo=less)
-
-<br />
 
 ### 🧰 Technologies & Tools
 
@@ -51,9 +43,6 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ![Amazon AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-black?style=flat-square&logo=adobe-xd)
-
-<br />
-<br />
 
 ---
 
@@ -78,7 +67,7 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 [![JayakornK's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayakornk&count_private=true&show_icons=true)][github]
 <details>
-  <summary>:zap: more stats?</summary>
+  <summary>➡️ more stats?</summary>
   <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakornk&langs_count=3" />
   <img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakornk" />
 </details>
