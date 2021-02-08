@@ -84,6 +84,7 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#522](https://github.com/carloscuesta/gitmoji-cli/pull/522) in [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli)
 <!--END_SECTION:activity-->
 
 </details>
