@@ -5,11 +5,19 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 - 🌱 I’m currently learning everything 🥶
 - ⚡ Fun fact: I'm a gadget lover and a Back to the Future fan.
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-jayakornk.vercel.app/api/spotify" alt="JayakornK Spotify Playing" width="350" />](https://open.spotify.com/user/whiskey2wine)
+
+<br />
+
 ### 🔗 Connect with me
 
 [![Website](https://img.shields.io/website?label=jayakornk.dev&style=for-the-badge&url=https%3A%2F%2Fjayakornk.dev)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/jayakornk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjayakornk&screen_name=jayakornk)
 [![LinkedIn](https://img.shields.io/badge/-Jayakorn_Karikan-0077B5?style=for-the-badge&logo=linkedin)][linkedin]
+
+<br />
 
 ### ✨ Languages
 
@@ -19,6 +27,8 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass)
 ![Less](https://img.shields.io/badge/-Less-black?style=flat-square&logo=less)
+
+<br />
 
 ### 🧰 Technologies & Tools
 
@@ -42,13 +52,24 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-black?style=flat-square&logo=adobe-xd)
 
+<br />
+<br />
+
+---
+
 ### 📝 Latest Blog Post [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium)](https://medium.com/@jayakornk) [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode)](https://hashnode.com/@jayakornk) [![Bacon's DEV Community Profile](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=dev.to)](https://dev.to/jayakornk)
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 ### 📻 Latest Podcasts [![Anchor.fm](https://img.shields.io/badge/-Anchor.fm-5000B9?style=flat-square&logo=anchor&logoColor=white)](https://anchor.fm/organic-talk) [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/7mTCD9dJ7epy3w8WN4CXde)
+
 <!-- PODCAST:START -->
 <!-- PODCAST:END -->
+
+---
 
 ### 📈 GitHub Stats
 
@@ -57,6 +78,14 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
   <summary>:zap: more stats?</summary>
   <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayakornk&langs_count=3" />
   <img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakornk" />
+</details>
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 </details>
 
 <!--
