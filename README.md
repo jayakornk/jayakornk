@@ -15,17 +15,20 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 ### ✨ Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass)
-![Less](https://img.shields.io/badge/-Less-black?style=flat-square&logo=less)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333333)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 🧰 Technologies & Tools
 
-![MacOS](https://img.shields.io/badge/-Mac-black?style=flat-square&logo=apple)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+![MacOS](https://img.shields.io/badge/-Macbook_Air_M1-black?style=flat-square&logo=apple)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Brave](https://img.shields.io/badge/-Brave_Browser-black?style=flat-square&logo=brave)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -33,13 +36,13 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-black?style=flat-square&logo=styled-components)
-![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)
+![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint&logoColor=4B32C3)
 ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=prettier)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=430098)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
+![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress&logoColor=21759B)
 ![Amazon AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-black?style=flat-square&logo=adobe-xd)
@@ -68,50 +71,48 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-108-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 113 Contributions in the Year 2021
- > 
-> 📦 56.5 kB Used in Github's Storage 
- > 
+ >
+> 📦 56.5 kB Used in Github's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 22 Public Repositories
+ >
+> 🔑 9 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.92% 
-🌆 Daytime    59 commits     ███████████░░░░░░░░░░░░░░   45.04% 
-🌃 Evening    31 commits     ██████░░░░░░░░░░░░░░░░░░░   23.66% 
+🌞 Morning    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.92%
+🌆 Daytime    59 commits     ███████████░░░░░░░░░░░░░░   45.04%
+🌃 Evening    31 commits     ██████░░░░░░░░░░░░░░░░░░░   23.66%
 🌙 Night      28 commits     █████░░░░░░░░░░░░░░░░░░░░   21.37%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Bangkok
 
-💬 Programming Languages: 
-Other                    1 hr 59 mins        ████████████████░░░░░░░░░   65.75% 
-JavaScript               55 mins             ███████░░░░░░░░░░░░░░░░░░   30.28% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
+💬 Programming Languages:
+Other                    1 hr 59 mins        ████████████████░░░░░░░░░   65.75%
+JavaScript               55 mins             ███████░░░░░░░░░░░░░░░░░░   30.28%
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48%
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
-🔥 Editors: 
-Browser                  1 hr 58 mins        ████████████████░░░░░░░░░   64.92% 
+🔥 Editors:
+Browser                  1 hr 58 mins        ████████████████░░░░░░░░░   64.92%
 VS Code                  1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   35.08%
 
-💻 Operating System: 
+💻 Operating System:
 Mac                      3 hrs 2 mins        █████████████████████████   100.0%
 
 ```
-
 
 <!--END_SECTION:waka-->
 
@@ -123,8 +124,8 @@ Mac                      3 hrs 2 mins        ███████████�
 <details>
   <summary>➡️ more stats?</summary>
 
-  <img alt="Top Langs" src="http://github-readme-stats.jayakornk.vercel.app/api/top-langs/?username=jayakornk&langs_count=3" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakornk" />
+  <img alt="Top Langs" align="left" src="http://github-readme-stats.jayakornk.vercel.app/api/top-langs/?username=jayakornk&langs_count=3" />
+  <img alt="GitHub Streak" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakornk" />
 
 </details>
 
