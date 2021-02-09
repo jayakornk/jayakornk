@@ -63,13 +63,22 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 ---
 
+### 📊 This week I spent my time on
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 📈 GitHub Stats
 
 [![JayakornK's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayakornk&count_private=true&show_icons=true)][github]
 <details>
   <summary>➡️ more stats?</summary>
+
   <img alt="Top Langs" src="http://github-readme-stats.jayakornk.vercel.app/api/top-langs/?username=jayakornk&langs_count=3" />
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayakornk" />
+
 </details>
 
 <details>
