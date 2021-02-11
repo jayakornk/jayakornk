@@ -1,6 +1,6 @@
 <img src="https://github.com/jayakornk/jayakornk/blob/main/GitHub%20Banner.png">
 
-# Hi there <img src="https://raw.githubusercontent.com/jayakornk/jayakornk/main/wave.gif" width="30px">
+# Hi, I'm Bacon. <img src="https://raw.githubusercontent.com/jayakornk/jayakornk/main/wave.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=jayakornk.dev&style=for-the-badge&url=https%3A%2F%2Fjayakornk.dev)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/jayakornk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjayakornk&screen_name=jayakornk)
