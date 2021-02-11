@@ -1,3 +1,5 @@
+<img src="https://github.com/jayakornk/jayakornk/blob/main/GitHub%20Banner.png">
+
 # Hi there <img src="https://raw.githubusercontent.com/jayakornk/jayakornk/main/wave.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=jayakornk.dev&style=for-the-badge&url=https%3A%2F%2Fjayakornk.dev)][website]
