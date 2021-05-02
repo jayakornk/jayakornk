@@ -75,15 +75,15 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 **🐱 My Github Data** 
 
-> 🏆 202 Contributions in the Year 2021
+> 🏆 211 Contributions in the Year 2021
  > 
-> 📦 64.5 kB Used in Github's Storage 
+> 📦 64.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
-> 🔑 10 Private Repositories  
+> 🔑 11 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
