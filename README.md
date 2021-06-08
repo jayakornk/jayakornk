@@ -75,9 +75,9 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 314 Contributions in the Year 2021
  > 
-> 📦 68.6 kB Used in Github's Storage 
+> 📦 69.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,10 +88,10 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.11% 
-🌆 Daytime    119 commits    ██████░░░░░░░░░░░░░░░░░░░   24.09% 
-🌃 Evening    148 commits    ███████░░░░░░░░░░░░░░░░░░   29.96% 
-🌙 Night      182 commits    █████████░░░░░░░░░░░░░░░░   36.84%
+🌞 Morning    45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
+🌆 Daytime    122 commits    ██████░░░░░░░░░░░░░░░░░░░   24.55% 
+🌃 Evening    148 commits    ███████░░░░░░░░░░░░░░░░░░   29.78% 
+🌙 Night      182 commits    █████████░░░░░░░░░░░░░░░░   36.62%
 
 ```
 
