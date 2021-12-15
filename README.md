@@ -75,7 +75,7 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 **🐱 My GitHub Data** 
 
-> 🏆 556 Contributions in the Year 2021
+> 🏆 560 Contributions in the Year 2021
  > 
 > 📦 71.4 kB Used in GitHub's Storage 
  > 
@@ -88,10 +88,10 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.61% 
-🌆 Daytime    114 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
-🌃 Evening    248 commits    █████████░░░░░░░░░░░░░░░░   39.3% 
-🌙 Night      221 commits    ████████░░░░░░░░░░░░░░░░░   35.02%
+🌞 Morning    48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+🌆 Daytime    116 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.33% 
+🌃 Evening    248 commits    █████████░░░░░░░░░░░░░░░░   39.18% 
+🌙 Night      221 commits    ████████░░░░░░░░░░░░░░░░░   34.91%
 
 ```
 
@@ -102,18 +102,22 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 hr 58 mins        █████████████████████░░░░   87.44% 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 16 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/12/2021
+ Last Updated on 15/12/2021
 <!--END_SECTION:waka-->
 
 ---
