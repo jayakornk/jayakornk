@@ -75,7 +75,7 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 **🐱 My GitHub Data** 
 
-> 🏆 560 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 71.5 kB Used in GitHub's Storage 
  > 
@@ -102,18 +102,18 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               18 mins             █████████████████████████   100.0%
+TypeScript               15 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+VS Code                  15 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.0%
+Mac                      15 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 ---
