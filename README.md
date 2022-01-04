@@ -2,6 +2,12 @@
 
 # Hi, I'm Bacon. <img src="https://raw.githubusercontent.com/jayakornk/jayakornk/main/wave.gif" width="30px">
 
+<div align="left">
+  <a href="https://app.daily.dev/jayakornk">
+    <img src="https://api.daily.dev/devcards/e14220f8105b46e7897df13822e49163.png?r=89z" width="256" alt="Bacon's Dev Card"/>
+  </a>
+</div>
+
 [![Website](https://img.shields.io/website?label=jayakornk.dev&style=for-the-badge&url=https%3A%2F%2Fjayakornk.dev)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/jayakornk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjayakornk&screen_name=jayakornk)
 [![LinkedIn](https://img.shields.io/badge/-Jayakorn_Karikan-0077B5?style=for-the-badge&logo=linkedin)][linkedin]
