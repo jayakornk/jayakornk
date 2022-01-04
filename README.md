@@ -81,9 +81,9 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 4 Contributions in the Year 2022
  > 
-> 📦 71.5 kB Used in GitHub's Storage 
+> 📦 71.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,10 +94,10 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
-🌆 Daytime    116 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.33% 
-🌃 Evening    248 commits    █████████░░░░░░░░░░░░░░░░   39.18% 
-🌙 Night      221 commits    ████████░░░░░░░░░░░░░░░░░   34.91%
+🌞 Morning    48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.54% 
+🌆 Daytime    116 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.21% 
+🌃 Evening    248 commits    █████████░░░░░░░░░░░░░░░░   38.93% 
+🌙 Night      225 commits    ████████░░░░░░░░░░░░░░░░░   35.32%
 
 ```
 
@@ -108,18 +108,18 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 03/01/2022
+ Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
 
 ---
