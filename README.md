@@ -4,7 +4,7 @@
 
 <div align="left">
   <a href="https://app.daily.dev/jayakornk">
-    <img src="https://api.daily.dev/devcards/e14220f8105b46e7897df13822e49163.png?r=89z" align="right" width="256" alt="Bacon's Dev Card"/>
+    <img src="https://github.com/jayakornk/jayakornk/blob/main/devcard.svg" align="right" width="256" alt="Bacon's Dev Card"/>
   </a>
 </div>
 
