@@ -85,7 +85,7 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 > 🏆 35 Contributions in the Year 2022
  > 
-> 📦 73.1 kB Used in GitHub's Storage 
+> 📦 73.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -125,7 +125,7 @@ Mac                      19 hrs 8 mins       ███████████�
 ```
 
 
- Last Updated on 29/05/2022 18:38:19 UTC
+ Last Updated on 30/05/2022 18:38:47 UTC
 <!--END_SECTION:waka-->
 
 ---
