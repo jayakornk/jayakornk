@@ -83,31 +83,30 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 **🐱 My GitHub Data** 
 
-> 🏆 133 Contributions in the Year 2023
+> 📦 78.5 kB Used in GitHub's Storage 
  > 
-> 📦 78.2 kB Used in GitHub's Storage 
+> 🏆 134 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 34 Public Repositories 
  > 
-> 🔑 16 Private Repositories  
+> 🔑 16 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning       51 commits       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-🌆 Daytime      104 commits       ██████████░░░░░░░░░░░░░░░   43.33 % 
-🌃 Evening       60 commits       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌙 Night         25 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-
+🌞 Morning                136 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌆 Daytime                255 commits         █████████████░░░░░░░░░░░░   52.36 % 
+🌃 Evening                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+🌙 Night                  25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Bangkok
+🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -117,11 +116,10 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 
- Last Updated on 21/02/2023 18:34:17 UTC
+ Last Updated on 23/02/2023 18:34:58 UTC
 <!--END_SECTION:waka-->
 
 ---
