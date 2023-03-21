@@ -77,15 +77,15 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C978%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C978%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 84.8 kB Used in GitHub's Storage 
+> 📦 85.1 kB Used in GitHub's Storage 
  > 
-> 🏆 181 Contributions in the Year 2023
+> 🏆 184 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,10 +96,10 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                452 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-🌆 Daytime                855 commits         ██████████░░░░░░░░░░░░░░░   38.03 % 
-🌃 Evening                567 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-🌙 Night                  374 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+🌞 Morning                454 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+🌆 Daytime                858 commits         ██████████░░░░░░░░░░░░░░░   38.08 % 
+🌃 Evening                567 commits         ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+🌙 Night                  374 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
 ```
 
 
@@ -109,17 +109,21 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               14 mins             ████████████████░░░░░░░░░   63.72 % 
+YAML                     7 mins              █████████░░░░░░░░░░░░░░░░   34.59 % 
+Astro                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             ████████████████░░░░░░░░░   63.76 % 
+Neovim                   8 mins              █████████░░░░░░░░░░░░░░░░   36.24 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/03/2023 18:35:21 UTC
+ Last Updated on 21/03/2023 18:34:00 UTC
 <!--END_SECTION:waka-->
 
 ---
