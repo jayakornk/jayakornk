@@ -68,8 +68,8 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ### 📻 Latest Podcasts [![Anchor.fm](https://img.shields.io/badge/-Anchor.fm-5000B9?style=flat-square&logo=anchor&logoColor=white)](https://anchor.fm/organic-talk) [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/7mTCD9dJ7epy3w8WN4CXde)
 
 <!-- PODCAST:START -->
-- [EP.2 - English ของมันต้องมี!](https://podcasters.spotify.com/pod/show/organic-talk/episodes/EP-2---English-eersf0)
-- [EP.1 - ชีวิตที่เปลี่ยนไปในยุค COVID-19](https://podcasters.spotify.com/pod/show/organic-talk/episodes/EP-1----COVID-19-eeho5o)
+- [EP.2 - English ของมันต้องมี!](https://anchor.fm/organic-talk/episodes/EP-2---English-eersf0)
+- [EP.1 - ชีวิตที่เปลี่ยนไปในยุค COVID-19](https://anchor.fm/organic-talk/episodes/EP-1----COVID-19-eeho5o)
 <!-- PODCAST:END -->
 
 ---
