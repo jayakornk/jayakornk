@@ -60,6 +60,7 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ### 📝 Latest Blog Post [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium)](https://medium.com/@jayakornk) [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode)](https://hashnode.com/@jayakornk) [![Bacon's DEV Community Profile](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=dev.to)](https://dev.to/jayakornk)
 
 <!-- BLOG-POST-LIST:START -->
+- [Get to know yourself, change is on the way!](https://medium.com/odds-team/get-to-know-yourself-change-is-on-the-way-5ad77f7bbb18?source=rss-b59d0b314c81------2)
 - [Let’s talk “Task Management”](https://medium.com/odds-team/lets-talk-task-management-a2a8ac7db511?source=rss-b59d0b314c81------2)
 <!-- BLOG-POST-LIST:END -->
 
