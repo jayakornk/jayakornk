@@ -78,13 +78,15 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C568%20hrs%2017%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 84.5 kB Used in GitHub's Storage 
+> 📦 84.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,323 Contributions in the Year 2023
+> 🏆 1,329 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,8 +94,38 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 06/12/2023 18:34:23 UTC
+```text
+🌞 Morning                781 commits         ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+🌆 Daytime                1544 commits        ████████████░░░░░░░░░░░░░   46.48 % 
+🌃 Evening                633 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+🌙 Night                  364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Vue.js                   5 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   34.05 % 
+Dart                     5 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.26 % 
+TypeScript               4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+Go                       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 12 mins      ████████████████████████░   94.96 % 
+Neovim                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+
+💻 Operating System: 
+Mac                      17 hrs 3 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 07/12/2023 18:34:31 UTC
 <!--END_SECTION:waka-->
 
 ---
