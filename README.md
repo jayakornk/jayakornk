@@ -110,21 +110,17 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       1 hr 16 mins        ██████████████░░░░░░░░░░░   55.19 % 
-Vue.js                   27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-JSON                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/12/2023 18:34:16 UTC
+ Last Updated on 16/12/2023 18:33:32 UTC
 <!--END_SECTION:waka-->
 
 ---
