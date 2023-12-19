@@ -78,7 +78,7 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C574%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C575%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,7 +86,7 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 > 📦 85.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,338 Contributions in the Year 2023
+> 🏆 1,342 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,10 +97,10 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                786 commits         ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-🌆 Daytime                1548 commits        ████████████░░░░░░░░░░░░░   46.47 % 
-🌃 Evening                633 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-🌙 Night                  364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+🌞 Morning                788 commits         ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+🌆 Daytime                1550 commits        ████████████░░░░░░░░░░░░░   46.48 % 
+🌃 Evening                633 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+🌙 Night                  364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 ```
 
 
@@ -110,17 +110,19 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     51 mins             ████████████████████████░   97.66 % 
+Go                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      52 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/12/2023 18:35:10 UTC
+ Last Updated on 19/12/2023 18:33:48 UTC
 <!--END_SECTION:waka-->
 
 ---
