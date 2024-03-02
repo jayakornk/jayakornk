@@ -78,13 +78,13 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C754%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C757%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 84.6 kB Used in GitHub's Storage 
+> 📦 84.8 kB Used in GitHub's Storage 
  > 
 > 🏆 369 Contributions in the Year 2024
  > 
@@ -110,21 +110,21 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     6 hrs 40 mins       ███████████████████░░░░░░   74.21 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Astro                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Dart                     7 hrs 27 mins       ████████████████░░░░░░░░░   63.98 % 
+Vue.js                   1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Astro                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 39 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/03/2024 18:34:48 UTC
+ Last Updated on 02/03/2024 18:34:06 UTC
 <!--END_SECTION:waka-->
 
 ---
