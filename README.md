@@ -78,13 +78,13 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C770%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C773%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 86.0 kB Used in GitHub's Storage 
+> 📦 86.2 kB Used in GitHub's Storage 
  > 
 > 🏆 390 Contributions in the Year 2024
  > 
@@ -110,22 +110,22 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Vue.js                   10 hrs 1 min        ████████████░░░░░░░░░░░░░   46.28 % 
-Dart                     6 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.88 % 
-TypeScript               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Astro                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Vue.js                   10 hrs 1 min        ██████████████░░░░░░░░░░░   54.53 % 
+Dart                     3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+YAML                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+TypeScript               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 31 mins      █████████████████████████   99.32 % 
-Neovim                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+VS Code                  18 hrs 7 mins       █████████████████████████   98.54 % 
+Neovim                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Mac                      21 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/03/2024 18:34:19 UTC
+ Last Updated on 08/03/2024 18:35:02 UTC
 <!--END_SECTION:waka-->
 
 ---
