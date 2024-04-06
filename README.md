@@ -78,13 +78,13 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C800%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C800%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 85.7 kB Used in GitHub's Storage 
+> 📦 85.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,19 +108,20 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-YAML                     0 secs              ██████████████░░░░░░░░░░░   56.24 % 
-Other                    0 secs              ███████████░░░░░░░░░░░░░░   43.76 % 
+JavaScript               3 mins              █████████████████████░░░░   84.89 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 🔥 Editors: 
-VS Code                  0 secs              ██████████████░░░░░░░░░░░   56.24 % 
-Neovim                   0 secs              ███████████░░░░░░░░░░░░░░   43.76 % 
+Neovim                   4 mins              ███████████████████████░░   92.94 % 
+VS Code                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/04/2024 18:34:44 UTC
+ Last Updated on 06/04/2024 18:34:14 UTC
 <!--END_SECTION:waka-->
 
 ---
