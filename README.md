@@ -78,6 +78,8 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C800%20hrs%2033%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -90,8 +92,36 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 11/04/2024 18:34:12 UTC
+```text
+🌞 Morning                3459 commits        ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+🌆 Daytime                6709 commits        ██████████████░░░░░░░░░░░   57.61 % 
+🌃 Evening                1075 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+🌙 Night                  403 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+YAML                     19 mins             █████████████████████░░░░   83.15 % 
+JavaScript               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+
+🔥 Editors: 
+VS Code                  19 mins             █████████████████████░░░░   83.15 % 
+Neovim                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+
+💻 Operating System: 
+Mac                      23 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 12/04/2024 18:34:21 UTC
 <!--END_SECTION:waka-->
 
 ---
