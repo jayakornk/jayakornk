@@ -86,8 +86,6 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 > 📦 88.5 kB Used in GitHub's Storage 
  > 
-> 🏆 750 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -97,9 +95,9 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4328 commits        ████████░░░░░░░░░░░░░░░░░   30.05 % 
-🌆 Daytime                8466 commits        ███████████████░░░░░░░░░░   58.78 % 
-🌃 Evening                1192 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+🌞 Morning                4329 commits        ████████░░░░░░░░░░░░░░░░░   30.05 % 
+🌆 Daytime                8467 commits        ███████████████░░░░░░░░░░   58.77 % 
+🌃 Evening                1192 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 🌙 Night                  418 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
@@ -110,17 +108,17 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/06/2024 18:37:36 UTC
+ Last Updated on 04/06/2024 18:36:40 UTC
 <!--END_SECTION:waka-->
 
 ---
