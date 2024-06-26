@@ -78,13 +78,15 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C804%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C804%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 87.7 kB Used in GitHub's Storage 
+> 📦 87.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 846 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,10 +97,10 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5305 commits        ████████░░░░░░░░░░░░░░░░░   30.18 % 
-🌆 Daytime                10500 commits       ███████████████░░░░░░░░░░   59.74 % 
+🌞 Morning                5306 commits        ████████░░░░░░░░░░░░░░░░░   30.18 % 
+🌆 Daytime                10502 commits       ███████████████░░░░░░░░░░   59.74 % 
 🌃 Evening                1350 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-🌙 Night                  421 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+🌙 Night                  421 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 
 
@@ -108,17 +110,19 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     1 min               ████████████████████░░░░░   80.00 % 
+TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/06/2024 18:37:57 UTC
+ Last Updated on 26/06/2024 18:37:11 UTC
 <!--END_SECTION:waka-->
 
 ---
