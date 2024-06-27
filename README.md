@@ -78,15 +78,15 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C804%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C805%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 87.9 kB Used in GitHub's Storage 
+> 📦 88.1 kB Used in GitHub's Storage 
  > 
-> 🏆 846 Contributions in the Year 2024
+> 🏆 849 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,7 +98,7 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 
 ```text
 🌞 Morning                5306 commits        ████████░░░░░░░░░░░░░░░░░   30.18 % 
-🌆 Daytime                10502 commits       ███████████████░░░░░░░░░░   59.74 % 
+🌆 Daytime                10505 commits       ███████████████░░░░░░░░░░   59.75 % 
 🌃 Evening                1350 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 🌙 Night                  421 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
@@ -110,19 +110,20 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Bash                     1 min               ████████████████████░░░░░   80.00 % 
-TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+TypeScript               50 mins             ███████████████████░░░░░░   77.50 % 
+YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-Neovim                   1 min               █████████████████████████   100.00 % 
+Neovim                   1 hr 5 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/06/2024 18:37:11 UTC
+ Last Updated on 27/06/2024 18:38:25 UTC
 <!--END_SECTION:waka-->
 
 ---
