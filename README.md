@@ -78,9 +78,9 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C808%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C811%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,7 +88,7 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
@@ -97,8 +97,8 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ```text
 🌞 Morning                6500 commits        ████████░░░░░░░░░░░░░░░░░   30.38 % 
 🌆 Daytime                12943 commits       ███████████████░░░░░░░░░░   60.50 % 
-🌃 Evening                1520 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-🌙 Night                  430 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+🌃 Evening                1520 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+🌙 Night                  431 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 
 
@@ -108,17 +108,21 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Bash                     0 secs              █████████████████████████   100.00 % 
+tmux                     54 mins             ████████░░░░░░░░░░░░░░░░░   31.54 % 
+Bash                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+Lua                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+sh                       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+Neovim                   2 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/08/2024 18:38:50 UTC
+ Last Updated on 17/08/2024 18:37:44 UTC
 <!--END_SECTION:waka-->
 
 ---
