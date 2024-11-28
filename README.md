@@ -80,13 +80,11 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C811%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 87.0 kB Used in GitHub's Storage 
- > 
-> 🏆 1,342 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,10 +95,10 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9965 commits        ████████░░░░░░░░░░░░░░░░░   30.78 % 
-🌆 Daytime                19910 commits       ███████████████░░░░░░░░░░   61.49 % 
-🌃 Evening                2031 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-🌙 Night                  474 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+🌞 Morning                10099 commits       ████████░░░░░░░░░░░░░░░░░   30.78 % 
+🌆 Daytime                20179 commits       ███████████████░░░░░░░░░░   61.51 % 
+🌃 Evening                2051 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+🌙 Night                  477 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 
@@ -120,7 +118,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/11/2024 18:44:12 UTC
+ Last Updated on 28/11/2024 18:45:30 UTC
 <!--END_SECTION:waka-->
 
 ---
