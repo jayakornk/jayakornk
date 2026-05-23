@@ -92,33 +92,8 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                28814 commits       ████████░░░░░░░░░░░░░░░░░   31.48 % 
-🌆 Daytime                57121 commits       ████████████████░░░░░░░░░   62.41 % 
-🌃 Evening                4884 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-🌙 Night                  706 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 22/05/2026 19:24:01 UTC
+ Last Updated on 23/05/2026 19:07:28 UTC
 <!--END_SECTION:waka-->
 
 ---
