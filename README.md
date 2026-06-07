@@ -78,8 +78,6 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C812%20hrs%2042%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -95,7 +93,7 @@ My name is Jayakorn Karikan (Bacon) and I'm a software developer/engineer. I'm f
 > 🔑 25 Private Repositories 
  > 
 
- Last Updated on 06/06/2026 19:10:46 UTC
+ Last Updated on 07/06/2026 19:08:48 UTC
 <!--END_SECTION:waka-->
 
 ---
